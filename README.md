@@ -42,3 +42,6 @@ To run the human detection and counting system:
   - Real-Time Detection: The script will identify and count humans in the video feed.
   - Bounding Boxes: You'll see green boxes around detected people.
   - Human Count: The number of detected humans will be shown at the top-left of the video feed.
+
+## Project Report
+A detailed report on the development and results of the Human Detector and Counter project is available.
